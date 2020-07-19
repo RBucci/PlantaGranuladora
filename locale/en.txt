@@ -2,8 +2,11 @@
 
 ## Tour
 
+### Description
+tour.description = Producción de 30 toneladas por día. Consultar precio.
+
 ### Title
-tour.name = Planta Granuladora - Balanceados
+tour.name = Granuladora de Polvo al Seco
 
 ## Skin
 
@@ -183,12 +186,7 @@ HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-ali
 ## Media
 
 ### Title
-panorama_651607B3_6AC0_4851_41D6_EC9F6FF90A8D.label = Sección de Salida 2
-panorama_6516EE41_6AC0_D831_41C1_B23865DB643D.label = Depósito - Ingreso
-panorama_6516F1DC_6AC0_4BD0_41D9_19EC6C187CD7.label = Sección de Salida 1
-panorama_65190C71_6AC1_B8D1_41B8_B3FE40EFF864.label = Entrada
-panorama_654AD459_6AC0_C8D1_41D1_8525E3A894D2.label = Depósito Intermedio
-panorama_66074C40_6AC0_D82F_41D5_1092732A0302.label = Granuladora
+panorama_67F110BC_68C5_B037_41D1_678DF945A2B7.label = Granuladora
 
 ## Action
 
